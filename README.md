@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Patron de Conception : Abstract Factory (INF461 / INF4067)
 
 Ce dépôt présente l'implémentation en Java du design pattern **Abstract Factory** (Fabrique Abstraite) dans le cadre du cours de Principes et Processus du Logiciel (Université de Yaoundé I — Enseignante : Pr. Kimbi Xaveria).
@@ -40,3 +41,7 @@ src/
 │   └── ProduitFactory3.java
 │
 └── App.java                # Point d'entrée principal exécutant les tests des deux versions
+=======
+# Abstract-Factory
+Pour l'implementation du patron de conception Abstract-Factory
+>>>>>>> 7cf746a7aa5d4773e886443c4b600fc8c775ea91
